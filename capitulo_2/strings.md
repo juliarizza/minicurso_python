@@ -38,9 +38,9 @@ Strings podem ser *fatiadas*. Por exemplo, `Python` tem 6 letras. Porém, começ
 ```
 
 Existe também um recurso conhecido como operador %, que serve para formatar as strings. Basicamente, são três os tipos de formatação que temos:
-1. %s - serve para substituir string;
-2. %d - serve para substituir números inteiros em uma frase destinada a um print;
-3. %f - serve para substituir floats (números em aritmética de ponto flutuante).
+1. `%s` - serve para substituir string;
+2. `%d` - serve para substituir números inteiros em uma frase destinada a um print;
+3. `%f` - serve para substituir floats (números em aritmética de ponto flutuante).
 
 As três formatações acima relacionadas são usadas normalmente para aplicações em uma frase destinada a um print.
 ```

@@ -10,3 +10,4 @@
 	* [Strings](capitulo_2/strings.md)
 	* [Booleano](capitulo_2/bool.md)
 	* [Listas, Tuplas e Sets](capitulo_2/listas_tuplas_sets.md)
+	* [Dicionários](capitulo_2/dicionarios.md)

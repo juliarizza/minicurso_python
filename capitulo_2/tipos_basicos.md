@@ -1,6 +1,6 @@
 # Tipos Básicos
 
-Vamos entender um pouco melhor a parte teórica de Python. A documentação completa pode ser encontrada pode ser encontrada no [site oficial](http://python.org) (http://python.org).
+Vamos entender um pouco melhor a parte teórica de Python. A documentação completa pode ser encontrada no [site oficial](http://python.org) (http://python.org).
 
 ## Variáveis: o que são, como comem, onde dormem, quem são elas?
 Eu gosto muito da explicação de que a variável é uma etiqueta e o valor é uma caixa.
