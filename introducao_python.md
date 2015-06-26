@@ -13,4 +13,4 @@ print("Hello, World!")
 ```
 
 Python é uma linguagem de programação interpretada, de código-fonte aberto e disponível para vários sistemas operacionais. Diz-se que uma linguagem é interpretada se esta não precisar ser compilada (traduzida para uma linguagem da máquina), mas sim lida por um outro programa (chamado de interpretador) que traduzirá para a máquina o que seu programa quer dizer.
-O interpretador para Python é interativo, ou seja, é possível executá-lo sem fornecer um script (programa) para ele. Ao invés disso, o interpretador disponibilizará uma interface interativa onde é possível inserir os comandos desejados um por um e ver o efeito de cada um deles. O interpretador da linguagem Python é chamado **IDLE (ntegrated DeveLopment Environment)**.
+O interpretador para Python é interativo, ou seja, é possível executá-lo sem fornecer um script (programa) para ele. Ao invés disso, o interpretador disponibilizará uma interface interativa onde é possível inserir os comandos desejados um por um e ver o efeito de cada um deles. O interpretador da linguagem Python é chamado **IDLE (Integrated DeveLopment Environment)**.
