@@ -16,7 +16,7 @@ Um valor dentro de um dicionário pode ser retornado a partir de sua chave. Dess
 'fulano'
 ```
 
-Além disso, você pode adicionar novos valores a um dicionário simplismente informando uma chave que ele ainda não possui e alterar valores associando novos valores a uma chave existente.
+Além disso, você pode adicionar novos valores a um dicionário simplesmente informando uma chave que ele ainda não possui e alterar valores associando novos valores a uma chave existente.
 ```
 >>> dict1['altura'] = 1.80
 >>> print(dict1['altura'])
